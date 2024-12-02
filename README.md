@@ -1,2 +1,2 @@
-# bay-hpp-react
+# bay-hpp-react-frontend
 Healthcare patient portal frontend project
